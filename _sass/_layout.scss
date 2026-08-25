@@ -41,7 +41,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $mint-green-light;
     margin: 2rem 0;
     padding: 2rem 0;
 }
@@ -58,9 +58,9 @@
 .preview-panel {
     padding: 1rem;
     box-sizing: border-box;
-    border: 1px solid $color-initial;
+    border: 1px solid $mint-green;
     
     &:hover {
-        border: 1px solid $grey-color-light;
+        border: 1px solid $mint-green-light;
     }
 }
