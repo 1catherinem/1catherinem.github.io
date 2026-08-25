@@ -11,6 +11,10 @@ $brown:            #66574B;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+body{
+        background: $mint-green
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "milligram/milligram",
