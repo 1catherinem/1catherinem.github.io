@@ -2,6 +2,7 @@
 layout: page
 title: about
 permalink: /about/
+text-align: right
 ---
 
 ## who are you?
