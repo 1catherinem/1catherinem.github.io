@@ -1,1 +1,4 @@
-This is a Jeckyll port of MY website (built in carrd, despite its ridiculous limitations), built off of a Jeckyll port of http://erosie.net/ with some modifications. This theme is called "Urban theme". A live demo of the original can be viewed here: Live-Demo: https://narkotyk.netlify.app
+This is a Jeckyll port of MY website (built in carrd, despite its ridiculous limitations), built off of a Jeckyll port of http://erosie.net/ with some modifications. This theme is called "Urban theme". 
+
+A live demo of the original can be viewed here: 
+Live-Demo: https://narkotyk.netlify.app
