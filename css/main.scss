@@ -16,6 +16,10 @@ body{
         background: $mint-green;
         background-color: $mint-green
 }
+h1, h2, h3 {
+  color: $brown;
+}
+
 .btn, input[type="submit"] {
     background-color: $mint-green; 
     font-weight: bold; 
