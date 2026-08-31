@@ -16,4 +16,5 @@ This site is for quick reference for all of my stories. I have so many that it's
 ## do you write/draw things other than your own characters?
 i do. i love limbus company and 999 and other things and draw fanart on my twitter occasionally. i also write fanfiction for my boyfriend's characters and from various popular media as gifts. but for the most part, i'm the biggest fan of my own works (I just know what i like!), so that's what i tend to do the most.
 
-[[Button example]](https://www.google.com)
+[[Ao3]](https://archiveofourown.org/users/cafwin0)
+[[Twitter]](https://x.com/rinrinringg_)
