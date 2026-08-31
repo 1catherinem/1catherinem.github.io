@@ -15,6 +15,17 @@ body{
         background: $mint-green;
         background-color: $mint-green
 }
+.btn, input[type="submit"] {
+    background: #d9230f; 
+    font-weight: bold; 
+    color: rgba(255,255,255,0.75); 
+    text-decoration: none;
+    padding: 0.35rem 0.7rem;
+    border: 0;
+    cursor: pointer;
+    border-radius: 0.25rem;
+}
+.btn:hover {color: rgba(255,255,255,0.9);}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
