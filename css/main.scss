@@ -22,13 +22,13 @@ body{
     color: $brown; 
     text-decoration: none;
     padding: 0.35rem 0.7rem;
-    border: 2px $brown;
+    border: 2px solid $brown;
     cursor: pointer;
     border-radius: 0.5rem;
 }
 .btn:hover {
         color: $darker-green;
-        border: 2px $darker-green;
+        border: 5px solid $darker-green;
         
 }
 
