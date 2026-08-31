@@ -6,7 +6,7 @@
 $grey-color:       #828282;
 $mint-green:       #EEFFE8;
 $mint-green-light: lighten($mint-green, 40%);
-$mint-green-dark: darken($mint-green, 40%);
+$mint-green-dark: darken($mint-green, 10%);
 $darker-green:     #8AA36D;
 $brown:            #66574B;
 $grey-color-light: lighten($grey-color, 40%);
@@ -17,19 +17,20 @@ body{
         background-color: $mint-green
 }
 .btn, input[type="submit"] {
-    background: $mint-green; 
+    background-color: $mint-green; 
     font-weight: bold; 
     color: $brown; 
     text-decoration: none;
-    padding: 0.35rem 0.7rem;
-    border: 2px solid $brown;
+    padding: 22px 14px;
+    border: solid 1px #66574B;
     cursor: pointer;
-    border-radius: 0.5rem;
+    border-radius: 0.75rem;
 }
+
 .btn:hover {
         color: $darker-green;
-        border: 5px solid $darker-green;
-        
+        border: solid 5px $darker-green;
+        background-color: $mint-green-dark;         
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
