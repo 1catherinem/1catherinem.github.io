@@ -29,8 +29,8 @@ body{
 
 .btn:hover {
         color: $darker-green;
-        border: solid 5px $darker-green;
-        background-color: $mint-green-dark;         
+        border: solid 1px $darker-green;     
+        padding: 24px 16px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
