@@ -6,6 +6,7 @@
 $grey-color:       #828282;
 $mint-green:       #EEFFE8;
 $mint-green-light: lighten($mint-green, 40%);
+$mint-green-dark: darken($mint-green, 40%);
 $darker-green:     #8AA36D;
 $brown:            #66574B;
 $grey-color-light: lighten($grey-color, 40%);
@@ -16,9 +17,9 @@ body{
         background-color: $mint-green
 }
 .btn, input[type="submit"] {
-    background: #d9230f; 
+    background: $darker-green; 
     font-weight: bold; 
-    color: rgba(255,255,255,0.75); 
+    color: $mint-green-dark; 
     text-decoration: none;
     padding: 0.35rem 0.7rem;
     border: 0;
