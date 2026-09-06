@@ -1,0 +1,26 @@
+---
+layout: zine
+---
+
+<div class="page-grid">
+
+{% for page in site.pages %}
+  {% if page.image %}
+    <div class="page-item">
+      <a href="{{ page.url | relative_url }}">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+      </a>
+
+      <div class="page-title">
+        <a href="{{ page.url | relative_url }}">
+          {{ page.title }}
+        </a>
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+
+</div>
+
+{% include buttons.html %}
+</div>
