@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "House of 1000 rooms"
 date:   2015-10-06 15:39:40
 preview: holder.js/300x300?auto=yes
 ---
 
-![Picture 1](images/evilemails_triple.png)
+A former member of a hotel staff, recently released from prison for a crime he claims not to have committed, finds employment in a manor the size of a city block owned by the powerful Carrington family. There, he enters a strange world where the common laws of physics and mortality find little use, and where it's occupants and the manor itself is out to get him.
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Current word count: 15,645
