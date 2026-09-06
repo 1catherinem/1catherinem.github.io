@@ -14,3 +14,5 @@ text-align: right
     <a href="/about/">About</a>
   </div>
 </div>
+
+{% includes .page-grid %}
