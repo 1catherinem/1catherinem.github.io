@@ -5,7 +5,7 @@ text-align: right
 galleries:
   - title: intrastructures
     image: images/zines/intrastructures/INTRASTRUCTURES_page1.jpg
-    url: /intrastructures
+    url: /zines/intrastructures
   - title: Other zine
     image: /images/square2.jpg
     url: /about
