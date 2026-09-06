@@ -9,7 +9,9 @@ galleries:
   - title: ""
     image: /images/zines/aceattorney/SoYouWannaBeAnAceAttorneyZINE-1.png
     url: /zines/aceattorney
-
+  - title: ""
+    image: /images/zines/ochaken/OchaKenZine_Page1.png
+    url: /zines/ochaken
    
 ---
 
