@@ -5,13 +5,8 @@ permalink: /zines/
 text-align: right
 ---
 
-## who are you?
-i'm rin and i write a lot of stories. i love making characters and drawing them, sometimes in comics, sometimes just on their own. i do it far more than i probably should, but it brings me a lot of fulfillment and makes me happy.
-
-
-## what is this site for?
-This site is for quick reference for all of my stories. I have so many that it's difficult to remember them all, much less tell other people about them. So I made this to fulfill both of those functions. I hope you enjoy reading about them ♥
-
-
-## do you write/draw things other than your own characters?
-i do. i love limbus company and 999 and other things and draw fanart on my twitter occasionally. i also write fanfiction for my boyfriend's characters and from various popular media as gifts. but for the most part, i'm the biggest fan of my own works (I just know what i like!), so that's what i tend to do the most.
+<style> .page-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; } 
+.page-item { text-align: center; } 
+.page-item img { width: 100%; height: auto; display: block; } 
+.page-item a { text-decoration: none; color: inherit; } 
+.page-title { margin-top: 10px; } </style> <div class="page-grid"> <div class="page-item"> <a href="/about/"> <img src="/assets/images/about.jpg" alt="About"> </a> <div class="page-title"> <a href="/about/">About</a> </div> </div> <div class="page-item"> <a href="/projects/"> <img src="/assets/images/projects.jpg" alt="Projects"> </a> <div class="page-title"> <a href="/projects/">Projects</a> </div> </div> <div class="page-item"> <a href="/contact/"> <img src="/assets/images/contact.jpg" alt="Contact"> </a> <div class="page-title"> <a href="/contact/">Contact</a> </div> </div> <div class="page-item"> <a href="/blog/"> <img src="/assets/images/blog.jpg" alt="Blog"> </a> <div class="page-title"> <a href="/blog/">Blog</a> </div> </div> </div>
