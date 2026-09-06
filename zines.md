@@ -2,15 +2,16 @@
 layout: default
 permalink: /zines/
 text-align: right
+galleries:
+  - title: intrastructures
+    image: images/zines/intrastructures/INTRASTRUCTURES_page1.jpg
+    url: /intrastructures
+  - title: Other zine
+    image: /images/square2.jpg
+    url: /about
+
+   
 ---
 
 
-<div class="page-item">
-  <a href="/zines/intrastructures">
-    <img src="/images/sqaure3.jpg" alt="square">
-  </a>
-
-  <div class="page-title">
-    <a href="/zines/intrastructures/">About</a>
-  </div>
-</div>
+{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
