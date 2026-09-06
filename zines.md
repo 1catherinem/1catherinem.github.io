@@ -6,9 +6,9 @@ galleries:
   - title: intrastructures
     image: /images/zines/intrastructures/INTRASTRUCTURES_page0.jpg
     url: /zines/intrastructures
-  - title: Other zine
-    image: /images/square2.jpg
-    url: /about
+  - title: So you wanna be an Ace Attorney?
+    image: /images/zines/aceattorney/SoYouWannaBeAnAceAttorneyZINE-1.png
+    url: /zines/aceattorney
 
    
 ---
