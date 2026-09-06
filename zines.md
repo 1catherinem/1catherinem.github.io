@@ -6,13 +6,13 @@ text-align: right
 
 
 <div class="page-item">
-  <a href="/about/">
+  <a href="/zines/intrastructures">
     <img src="/images/sqaure3.jpg" alt="square">
   </a>
 
   <div class="page-title">
-    <a href="/about/">About</a>
+    <a href="/zines/intrastructures/">About</a>
   </div>
 </div>
 
-{% includes .page-grid %}
+{% include .page-grid %}
