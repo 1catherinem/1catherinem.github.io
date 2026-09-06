@@ -5,6 +5,4 @@ Live-Demo: https://narkotyk.netlify.app
 
 
 TO DO : 
-
-FIX LINK TO INTRASTRUCTURES ZINE PAGE (it exists, but i don't want it to show up on the main page! also clean up intrastructures image gallery pls)
-https://stackoverflow.com/questions/23935062/jekyll-github-pages-how-to-hide-a-post
+UPDATE ALL INFO.... LOOK INTO NEOCITIES...
