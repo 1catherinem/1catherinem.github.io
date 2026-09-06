@@ -14,5 +14,3 @@ text-align: right
     <a href="/zines/intrastructures/">About</a>
   </div>
 </div>
-
-{% include .page-grid %}
