@@ -2,7 +2,7 @@
 layout: post
 title:  "House of 1000 rooms"
 date:   2015-5-05 15:39:40
-preview: /images/square/Square1.jpg
+preview: /images/icons/dooricon.png
 hidden: false
 ---
 
