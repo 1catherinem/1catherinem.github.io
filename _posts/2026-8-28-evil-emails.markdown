@@ -10,3 +10,4 @@ A comic that follows a part-time model and barista, Eris, and one of her custome
 ![Picture 1](https://github.com/1catherinem/1catherinem.github.io/blob/master/images/evilemails_triple.png)
 
 {% include image-gallery.html folder="/images/square" %}
+{% include buttons.html %}
