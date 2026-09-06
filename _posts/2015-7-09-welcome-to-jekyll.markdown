@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "the moon goddess' bride"
-date:   2015-10-09 15:39:40
+date:   2015-7-09 15:39:40
 preview: holder.js/300x300?auto=yes
 ---
 
