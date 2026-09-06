@@ -4,4 +4,4 @@ permalink: /zines/
 text-align: right
 ---
 
-{% include preview-zine.html %}
+{% include preview.html %}
