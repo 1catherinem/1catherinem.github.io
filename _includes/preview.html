@@ -7,7 +7,9 @@
                     <img src="{{ post.preview }}">
                 </a>
                 <div class="post-title">
-                    <a href="{{ post.url | prepend: site.baseurl }}"{{ post.title }}></a>
+                    <a href="{{ post.url | prepend: site.baseurl }}"{{ post.title }}>
+                    {{ post.title }}
+                    </a>
                     {{ post.title }}
                     </div>
            </div>
