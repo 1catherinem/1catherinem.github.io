@@ -6,11 +6,11 @@ text-align: right
 ---
 
 <div class="page-item">
-  <a href="/about/">
+  <a href="">
     <img src="/images/sqaure3.jpg" alt="square">
   </a>
 
   <div class="page-title">
-    <a href="/about/">About</a>
+    <a href="">About</a>
   </div>
 </div>
