@@ -1,8 +1,7 @@
 ---
-layout: zine
-title: zines
+layout: default
 permalink: /zines/
 text-align: right
 ---
 
-{% include preview.html %}
+{% include preview-zine.html %}
