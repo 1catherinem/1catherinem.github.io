@@ -42,7 +42,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $mint-green-light;
+    border-top: 1px solid $mint-green;
     margin: 0rem 0;
     padding: 0rem 0;
     text-align: right;
@@ -68,6 +68,6 @@
     border: 1px solid $mint-green;
     
     &:hover {
-        border: 1px solid $mint-green-light;
+        border: 1px solid $mint-green;
     }
 }
