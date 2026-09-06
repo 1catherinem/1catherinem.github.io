@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: zines
 permalink: /zines/
 text-align: right
