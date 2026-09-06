@@ -37,6 +37,13 @@ h1, h2, h3 {
         padding: 24px 16px;
 }
 
+.page-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "milligram/milligram",
